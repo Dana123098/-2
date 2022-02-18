@@ -1,0 +1,384 @@
+* {
+    margin: 0 auto;
+  }
+  .box{
+      width: 100%;
+      height: 100%;
+      background-color: rgb(32, 32, 32);
+  }
+  .menu{
+    margin: 0 auto;
+    width: 1700px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+  }
+  .tankapp{
+      
+      position: relative;
+      margin-left: 30px;
+  }
+  .tank{
+    font-size: 41px;
+    top: 10px;
+    position: relative;
+    margin-left: 100px;
+    font-family: 'Nunito', sans-serif;
+  }
+  .APP{
+    font-size: 41px;
+      position: relative;
+      margin-left: 214px;
+      top: -45px;
+      font-family: 'Nunito', sans-serif;
+      color: rgb(86, 194, 245);
+
+  }
+  .nav2 {
+    position: relative;
+    top: -90px;
+    margin-left: 1000px;
+  }
+  .text-nav {
+    font-size: 16px;
+    margin-bottom: 90px;
+    padding: 30px;
+    top: 10px;
+    text-decoration: none;
+    color: rgb(104, 104, 104);
+    font-family: 'Lato', sans-serif;
+  }
+  .box1{
+    margin: 0 auto;
+    width: 1700px;
+    height: 800px;
+    background-color: rgb(86, 194, 245);
+  }
+  .box01{
+      position: relative;
+      top: 160px;
+      margin-left: 200px;
+  }
+  .Track-your-next-fuel-shops{
+      font-size: 52px;
+      color: aliceblue;
+      font-family: 'Fjalla One', sans-serif;
+  }
+  .Monitor{
+    font-size: 24px;
+    position: relative;
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+    top: 20px;
+
+  }
+  .Signup_For{
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 16px;
+    position: relative;
+    color: aliceblue;
+    margin-top: 50px;
+  }
+  .FREE{
+      position: relative;
+      height: 30px;
+      width: 50px;
+      background-color: gold;
+      border-radius: 10px;
+    
+  }
+  .FREE{
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 16px;
+    position: relative;
+    color: aliceblue;
+    top: -25px;
+    margin-left: 70px;
+    text-align: center;
+  }
+  .input100{
+      width: 400px;
+      height: 50px;
+      border-radius: 7px;
+      border: none;
+      position: relative;
+      top: 50px;
+
+  }
+  .a-1{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(174, 231, 87); 
+    text-align: center;
+    border-radius: 10px;
+      border: none;
+      margin-left: 450px;
+  }
+  .SIGNUP{
+  font-size: 16px;
+  position: relative;
+  text-align: center;
+  color: aliceblue;
+  font-family: 'Lato', sans-serif;
+  top: -5px;
+  
+
+
+  }
+  .a-box1{
+      position: relative;
+      width: 100px;
+      height: 50px;
+      background-color: rgb(174, 231, 87);
+      text-align: center;
+      border-radius: 10px;
+      border: none;
+      margin-left: 460px;
+      text-decoration: none;
+  }
+  .img1{
+      width: 600px;
+      position: relative;
+      margin-left: 1000px;
+      top: -238px;
+  }
+  .tuci1{
+      position: relative;
+      top: 100px;
+      margin-left: 130px;
+  }
+  .tuci2{
+    position: relative;
+    top: 700px;
+    margin-left: 130px;
+    width: 30px;
+}
+.tuci3{
+    position: relative;
+    top: 200px;
+    margin-left: 1030px;
+    width: 40px;
+}
+.tuci4{
+    position: relative;
+    top: 670px;
+    margin-left: 100px;
+    width: 50px;
+
+}
+
+.box2{
+    margin: 0 auto;
+    width: 1700px;
+    height: 200px;
+    background-color: rgb(245, 246, 248);
+    
+  }
+.box02{
+    display: flex;
+      position: relative;
+      top: 80px;
+}
+.box3{
+    margin: 0 auto;
+    width: 1700px;
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+}
+.WHY_Tank_App{
+    text-align: center;
+    position: relative;
+    top: 60px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(47, 47, 47);
+    font-size: 40px;
+}
+.text-03{
+    font-family: 'Lato', sans-serif;
+    color: rgb(41, 40, 40);
+    font-size: 22px;
+    position: relative;
+    margin-left: 60px;
+    top: -30px;
+}
+.text-023{
+    font-size: 14px;
+    color: rgb(117, 116, 116);
+    font-family: 'Lato', sans-serif;
+    
+    top: 10px;
+}
+.text-box3{
+    position: relative;
+    top: 200px;
+    margin-left: 200px;
+}
+.macbook{
+    width: 900px;
+    position: relative;
+    top: -300px;
+    margin-left: 900px;
+}
+.box4{
+    margin: 0 auto;
+    width: 1700px;
+    height: 700px;
+    background-color: rgb(241, 241, 241);
+}
+.box04{
+    position: relative;
+    top: 300px;
+    margin-left: 150px;
+}
+.text-04w{
+    font-family: 'Lato', sans-serif;
+    color: rgb(41, 40, 40);
+    font-size: 22px;
+    position: relative;
+    margin-left: 60px;
+    top: -30px;
+}
+.yexy042x{
+    font-size: 16px;
+    color: rgb(117, 116, 116);
+    font-family: 'Lato', sans-serif;
+    top: 10px;
+    
+}
+.img-kor{
+    position: relative;
+    top: 200px;
+    margin-left: 1000px;
+}
+.harik{
+    position: relative;
+    top: 287px;
+    margin-left: 793px;
+}
+.cif{
+ color: #2D394C;
+ font-size: 16px;
+ font-family: 'Lato', sans-serif;
+ position: relative;
+ top: 260px;
+ margin-left: 800px;
+}
+.Using_our_cloud{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-family: 'Nunito', sans-serif;
+    color: rgb(47, 47, 47);
+    font-size: 24px;
+    font-family: 'Marcellus', serif;
+}
+.box5{
+    margin: 0 auto;
+    width: 1700px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+}
+  .SAVE{
+        text-align: center;
+        position: relative;
+        top: 150px;
+        font-family: 'Nunito', sans-serif;
+        color: rgb(47, 47, 47);
+        font-size: 40px;
+    }
+    .input1002{
+        width: 600px;
+        height: 50px;
+        border-radius: 3px;
+    border: 1px solid rgb(158, 158, 158);
+        position: relative;
+        top: 50px;
+  
+    }
+    .a-2{
+      position: relative;
+      width: 150px;
+      height: 60px;
+      background-color: rgb(160, 212, 82); 
+      text-align: center;
+      border-radius: 5px;
+        border: none;
+        margin-left: 650px;
+        top: -10px;
+    }
+    .SIGNUP{
+    font-size: 16px;
+    position: relative;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+    top: -1px;
+    
+  
+  
+    }
+    .a-box1{
+        position: relative;
+        width: 100px;
+        height: 50px;
+        background-color: rgb(174, 231, 87);
+        text-align: center;
+        border-radius: 10px;
+        border: none;
+        margin-left: 460px;
+        text-decoration: none;
+    }  
+    .em{
+        position: relative;
+        top: 250px;
+        margin-left: 400px;
+    }
+    .menu2{
+        margin: 0 auto;
+        width: 1700px;
+        height: 100px;
+        background-color: rgb(248, 247, 247);
+      }
+      .tankapp2{
+          
+          position: relative;
+          margin-left: 30px;
+      }
+      .tank2{
+        font-size: 41px;
+        top: 10px;
+        position: relative;
+        margin-left: 100px;
+        font-family: 'Nunito', sans-serif;
+        color: #2D394C;
+      }
+      .APP2{
+        font-size: 41px;
+          position: relative;
+          margin-left: 214px;
+          top: -45px;
+          font-family: 'Nunito', sans-serif;
+          color: rgb(194, 194, 194);
+    
+      }
+      .nav22 {
+        position: relative;
+        top: -90px;
+        margin-left: 1000px;
+        margin-left: 800px;
+      }
+      .text-nav2 {
+        font-size: 12px;
+        margin-bottom: 90px;
+        padding: 30px;
+        top: 10px;
+        text-decoration: none;
+        color: rgb(104, 104, 104);
+        font-family: 'Lato', sans-serif;
+       
+      }
+      .img6{
+          position: relative;
+          top: -110px;
+          margin-left: 1470px;
+      }
